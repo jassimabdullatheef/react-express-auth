@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+.header {
+  display: flex;
+  background-color: #f5f5f5;
+  justify-content: space-between;
+}
+
+.header a {
+  margin: 0 10px;
+}
